@@ -1,0 +1,4 @@
+.env
+venv
+video_temp_dir
+__pycache__/

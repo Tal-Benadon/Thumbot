@@ -1,0 +1,11 @@
+{
+    "providers": [
+        "reddit",
+        "instagram.com/reel",
+        "facebook.com/watch",
+        "facebook.com/reel",
+        "facebook.com/share/v",
+        "facebook.com/share/r",
+        "fb.watch"
+    ]
+}
