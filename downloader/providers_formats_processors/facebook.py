@@ -9,7 +9,6 @@ def choose_facebook_format(formats_info: Dict[str, Any]) -> str:
         f: formats_info[f] for f in formats_info if 'av01' not in formats_info[f].get('vcodec')
     }
     
-    # pprint.pprint(filtered_formats_info)
     # TODO: Add flag to flip priority to HD
     # we prioritize sd for less bandwith
     try:
